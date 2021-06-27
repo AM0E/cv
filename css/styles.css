@@ -1,12 +1,12 @@
 body {
-  background-color: #FCDEC0;
+  background-color: #E3FDFD;
 }
 h1 {
-  color: #7D5A50;
+  color: #71C9CE;
 }
 h3 {
-  color: white;
-  background-color: #B4846C;
+  color: #71C9CE;
+  background-color: #CBF1F5;
 }
 hr {
   border-style: none;
@@ -16,8 +16,11 @@ hr {
   width: 5%
 }
 .thead {
-  color: #7D5A50;
+  color: #71C9CE;
 }
 .name:hover {
   color: pink;
+}
+.size {
+  font-size: 20px;
 }
